@@ -1,0 +1,18 @@
+QUESTÃO 8
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main()
+{
+    int x;
+    int *p;
+    int mat[4];
+
+     p = mat + 1;// expressão válida
+     p = mat++; // expressão não é válida, pois não se pode incrementar valor no vetor.
+     p = ++mat; // expressão não é válida, pois não se pode incrementar valor no vetor.
+     x = (*mat)++; // expressão válida.
+     }
+
+

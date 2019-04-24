@@ -1,0 +1,3 @@
+Questão 1
+	
+Resposta: Os ponteiros são ferramentas utilizadas para relacionarem valores alocados na memória através do endereço dos mesmos. Em detrimento disto, sua aplicação se torna de extrema importância na engenharia, pois permite processos como: alocação dinâmica de memória, passagem de parâmetros por referência, criação de estruturas de dados(listas encadeadas), etc.
